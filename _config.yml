@@ -22,8 +22,9 @@ title: SASS Journal Club
 email: andyrdt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website to document journal club meetings!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andyrdt.github.io/journal-club" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "andyrdt.github.io"
+baseurl: "/journal-club" # the subpath of your site, e.g. /blog
+url: "https://andyrdt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
