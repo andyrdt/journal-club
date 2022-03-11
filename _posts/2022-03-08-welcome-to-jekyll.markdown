@@ -29,6 +29,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 How does this look: $$x$$
 
+# Testing out chess
+
+<div class="iframe-container">
+<iframe id="9010831" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="//www.chess.com/emboard?id=9010831"></iframe><script>window.addEventListener("message",e=>{e['data']&&"9010831"===e['data']['id']&&document.getElementById(`${e['data']['id']}`)&&(document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`)});</script>
+</div>
+
+Wow that's cool!
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
