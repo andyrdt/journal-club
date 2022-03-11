@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SASS Journal Club
+title: S3A Journal Club
 email: andyrdt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website to document journal club meetings!
+  S3A Journal Club
 domain: "andyrdt.github.io"
 baseurl: "/journal-club" # the subpath of your site, e.g. /blog
 url: "https://andyrdt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
